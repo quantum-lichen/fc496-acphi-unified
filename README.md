@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/quantum-lichen/fc496-acphi-unified?style=for-the-badge&color=gold)](https://github.com/quantum-lichen/fc496-acphi-unified) 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://python.org) 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_3.0-red?style=for-the-badge)](LICENSE)
-![Banner](https://via.placeholder.com/1200x400/1a1a2e/ffffff?text=FC-496+%2F+ACΦ-496+Unified+Stack)
+
  
  *Zero-Copy • φ-Spiral • H-Scale Security • AI-Native*
 
