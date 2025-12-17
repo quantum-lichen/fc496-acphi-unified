@@ -1,3 +1,5 @@
+import hashlib
+
 class ACPhi496Codon:
     """🧠 ACΦ-496 Codon : Knowledge atom"""
     
@@ -21,3 +23,6 @@ class ACPhi496Codon:
     def validate(self) -> bool:
         return hashlib.sha256(self.phi_crc).hexdigest()[:8] == \
                hashlib.sha256(self.payload).hexdigest()[:8]
+    
+    def __repr__(self):
+        return f"ACΦ({self.TYPES.get(self.axiom_type, 'UNKNOWN')[:20]})"
